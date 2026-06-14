@@ -1,2 +1,2 @@
-\\atsu.moe^$all
-\\mozilla.org^$all
+//atsu.moe^$all
+//mozilla.org^$all
