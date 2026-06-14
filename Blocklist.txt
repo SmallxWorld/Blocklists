@@ -1,4 +1,4 @@
 ! Title: Classic Blocklist
 ! Version: 1.0
-//atsu.moe^$all
+@@atsu.moe^$all
 //comix.to^$all
