@@ -2,6 +2,9 @@
 ! Version: 1.0
 //atsu.moe^$all
 //comix.to^$all
-//everything.moe^$all
+//everythingmoe.com^$all
 //wotaku.wiki^$all
 //mangabaka.dev^$all
+//mangabaka.org^$all
+//anilist.co^$all
+//myanimelist.net^$all
