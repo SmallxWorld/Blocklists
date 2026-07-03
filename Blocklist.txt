@@ -1,10 +1,12 @@
 ! Title: Classic Blocklist
+! Description: This is my personal Blocklist
 ! Version: 1.0
-//atsu.moe^$all
+@@atsu.moe^$all
 //comix.to^$all
+! Manga & Anime databases
 //everythingmoe.com^$all
 //wotaku.wiki^$all
-//mangabaka.dev^$all
-//mangabaka.org^$all
+@@mangabaka.dev^$all
+@@mangabaka.org^$all
 //anilist.co^$all
 //myanimelist.net^$all
