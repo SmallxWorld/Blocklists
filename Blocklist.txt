@@ -2,6 +2,7 @@
 ! Description: This is my personal Blocklist
 ! Version: 1.0
 ! Manga & Anime Websites
+! Manga
 ||atsu.moe^$all
 ||comix.to^$all
 ! Manga & Anime databases
@@ -11,3 +12,4 @@
 ||mangabaka.org^$all
 ||anilist.co^$all
 ||myanimelist.net^$all
+||comick.dev^$all
