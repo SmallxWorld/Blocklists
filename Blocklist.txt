@@ -3,7 +3,7 @@
 ! Version: 1.0
 ! Manga & Anime Websites
 ! Manga
-||atsu.moe^$all
+||atsu.moe^
 ||comix.to^$all
 ! Manga & Anime databases
 ||everythingmoe.com^$all
