@@ -4,12 +4,12 @@
 ! Manga & Anime Websites
 ! Manga
 ||atsu.moe^
-||comix.to^$all
+||comix.to^
 ! Manga & Anime databases
-||everythingmoe.com^$all
-||wotaku.wiki^$all
-||mangabaka.dev^$all
-||mangabaka.org^$all
-||anilist.co^$all
-||myanimelist.net^$all
-||comick.dev^$all
+||everythingmoe.com^
+||wotaku.wiki^
+||mangabaka.dev^
+||mangabaka.org^
+||anilist.co^
+||myanimelist.net^
+||comick.dev^
