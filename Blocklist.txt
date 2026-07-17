@@ -9,5 +9,5 @@
 //wotaku.wiki^$all
 //mangabaka.dev^$all
 //mangabaka.org^$all
-//anilist.co^$all
+||anilist.co^$all
 //myanimelist.net^$all
