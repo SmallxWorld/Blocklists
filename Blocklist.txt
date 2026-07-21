@@ -5,6 +5,7 @@
 ! Manga
 ||atsu.moe^
 ||comix.to^
+||mangacloud.org^
 ! Manga & Anime databases
 ||mangabaka.org^
 ||everythingmoe.com^
