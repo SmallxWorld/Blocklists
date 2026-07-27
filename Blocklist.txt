@@ -3,7 +3,7 @@
 ! Version: 1.0
 ! Manga & Anime Websites
 ! Manga
-||atsu.moe^
+@@||atsu.moe^
 ||comix.to^
 ||mangacloud.org^
 ! Anime
