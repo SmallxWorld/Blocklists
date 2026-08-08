@@ -3,15 +3,15 @@
 ! Version: 1.0
 ! Manga & Anime Websites
 ! Manga
-||atsu.moe^
-||comix.to^
+@@||atsu.moe^
+@@||comix.to^
 ||mangacloud.org^
 ! Anime
 ||animepahe.ru^
 ! Manga & Anime databases
-||mangabaka.org^
-||everythingmoe.com^
-||wotaku.wiki^
+@@||mangabaka.org^
+@@||everythingmoe.com^
+@@||wotaku.wiki^
 ||mangabaka.dev^
 ||anilist.co^
 ||myanimelist.net^
