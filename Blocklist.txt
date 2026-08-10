@@ -7,6 +7,7 @@
 ||comix.to^
 ||mangacloud.org^
 ||mangadex.org^
+||mangafire.to^
 ! Anime
 ||animepahe.ru^
 ! Manga & Anime databases
