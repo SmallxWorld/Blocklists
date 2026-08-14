@@ -19,6 +19,6 @@
 ||myanimelist.net^
 ||comick.dev^
 ! Other websites I don't want
-||itch.io
+@@||itch.io
 ||pornhub.com
 ||xhamster.com
